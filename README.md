@@ -1,2 +1,2 @@
 # reading_notes
-This repository is for my "reading notes" for Code 102. 
+This repository is for Code 102 reading notes. 
