@@ -6,6 +6,9 @@ This repository is for Code 102 reading notes.
 
 # Lab 01b
 
+![image](https://user-images.githubusercontent.com/81570648/192703825-2ddd7afe-a143-449f-9597-f4652840f483.png)
+
+
 ## Explain “growth mindset” in your own words
 ### **Developers are _developed_, not _born_!**
 
