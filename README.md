@@ -18,5 +18,5 @@ This repository is for Code 102 reading notes.
 ### - 
 ### - 
 
-#### Here is my [GitHub portfolio](https://github.com/pgmorales76).
+#### Here is my [GitHub portfolio](https://github.com/pgmorales76) and [LinkedIn Profile](www.linkedin.com/in/peter-morales-4206a7190).
 ----------------------------------------------
