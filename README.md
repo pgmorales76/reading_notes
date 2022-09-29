@@ -6,7 +6,7 @@ This repository is for Code 102 reading notes.
 
 # Creating a webpage using Markdown!
 
-## For out first day of class, we're going to be using a markup language called "Markdown"!
+## For our first day of class, we're going to be using a markup language called "Markdown"!
 
 ### Markdown is a markup language, but it's different than HTML.
 
@@ -14,7 +14,7 @@ This repository is for Code 102 reading notes.
 
 #### - For the purposes of introducing us to simple webpage creation, we're starting with Markdown, rather than HTML.
 
-#### - When I started looking at the syntax used, it reminded of the syntax used for creating, editing a wikipedia page.
+#### - When I started looking at the syntax used, it reminded me of the syntax used for creating, editing, a Wikipedia page.
 
 ### Markdown Syntax
 
