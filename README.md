@@ -15,7 +15,7 @@ This repository is for Code 102 reading notes.
 
 ## Include reminders to yourself of how to keep yourself in a growth mindset:
 ### - When a challenge seems to disrupt your momentum, don’t stop, suddenly. Try to keep some, any, momentum. 
-###   Even if it means moving at a snails pace.
+      Even if it means moving at a snails pace.
 ### ⁃	Embrace decomposition: 
 
 > “Bob: Baby steps? 
