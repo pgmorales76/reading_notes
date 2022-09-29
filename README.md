@@ -15,7 +15,7 @@ This repository is for Code 102 reading notes.
 
 ## Include reminders to yourself of how to keep yourself in a growth mindset:
 ### - When a challenge seems to disrupt your momentum, don’t stop, suddenly. Try to keep some, any, momentum. Even if it means moving at a snails pace.
-### ⁃	Embrace decomposition: 
+### ⁃	Embrace decomposition: Break the problem down into smaller iterations, so the scale of the problem isn’t too daunting.
 
 > Bob: Baby Steps?
 > 
@@ -31,7 +31,6 @@ This repository is for Code 102 reading notes.
 > 
 > ["What About Bob?"](https://www.youtube.com/watch?v=Yl6s6DGapug)
 
-### - Break the problem down into smaller iterations, so the scale of the problem isn’t too daunting.
 ### ⁃	Failure and criticism are not to be avoided like the plague (the pandemic?), but embraced as learning and GROWTH opportunities.
 ### ⁃	Surround yourself with people whose skills are superior to yours which will be viewed as inspirational and objectives to be achieved.
 
