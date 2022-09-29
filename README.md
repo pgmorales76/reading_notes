@@ -17,8 +17,8 @@ This repository is for Code 102 reading notes.
 ### - When a challenge seems to disrupt your momentum, don’t stop, suddenly. Try to keep some, any, momentum. Even if it means moving at a snails pace.
 ### ⁃	Embrace decomposition: 
 
-> “Bob: Baby steps? 
-   Dr. Marvin: It means setting small, reasonable, goals, one step at a time. One tiny, little, step at a time.
+> “Bob: Baby steps?
+>  Dr. Marvin: It means setting small, reasonable, goals, one step at a time. One tiny, little, step at a time.
    For instance, when you leave this office, don’t think about everything you must do I. Order to get of the building,
    think of what you must do I. Order to get out of this room. And, when you get    the hall, deal with that hall, and
    so forth. You see?” - What About Bob? 
