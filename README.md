@@ -1,7 +1,7 @@
 # reading_notes
 This repository is for Code 102 reading notes.
 
-----------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 #### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
 
 # Creating a webpage using Markdown!
@@ -32,6 +32,8 @@ This repository is for Code 102 reading notes.
 
 #### - The basic syntax guide can be found at [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ![image](https://user-images.githubusercontent.com/81570648/192704138-052cdff8-06df-401a-b7c5-108b36317802.png)
 
 
@@ -61,4 +63,3 @@ This repository is for Code 102 reading notes.
 ### ⁃	Surround yourself with people whose skills are superior to yours which will be viewed as inspirational and objectives to be achieved.
 
 #### Here's my [GitHub Portfolio](https://github.com/pgmorales76) and [LinkedIn Profile](https://linkedin.com/in/peter-morales-4206a7190).
-----------------------------------------------
