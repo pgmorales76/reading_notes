@@ -18,13 +18,11 @@ This repository is for Code 102 reading notes.
 
 ### Markdown Syntax
 
-#### - In the same way there are six section heading levels in HTML, there are six section heading leves in Markdown.
-       - Using the "#" symbol, you can create a heading. The highest heading level uses one "#" symbol. The lowest uses six "#" symbols.
+#### - In the same way there are six section heading levels in HTML, there are six section heading leves in Markdown. Using the "#" symbol, you can create a heading. The highest heading level uses one "#" symbol. The lowest uses six "#" symbols.
 
 #### = To create a blockquote, place a greater than symbol (>) in front of a paragraph.
 
-#### - You can create ordered and unordered lists in Markdown, just like HTML.
-       = For ordered lists, place a number in front of the list item. For unordered lists, add dashes in front of list items.
+#### - You can create ordered and unordered lists in Markdown, just like HTML. For ordered lists, place a number in front of the list item. For unordered lists, add dashes in front of list items.
 
 #### - To create a link, the text you'd like the link to display goes inside brackets "[]". The URL goes inside parentheses "()".
        - [alt link text](URL)
