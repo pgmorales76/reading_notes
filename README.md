@@ -18,7 +18,11 @@ This repository is for Code 102 reading notes.
 ###   Even if it means moving at a snails pace.
 ### ⁃	Embrace decomposition: 
 
-> “Bob: Baby steps? Dr. Marvin: It means setting small, reasonable, goals, one step at a time. One tiny, little, step at a time. For instance, when you leave this office, don’t think about everything you must do I. Order to get of the building, think of what you must do I. Order to get out of this room. And, when you get the hall, deal with that hall, and so forth. You see?” - What About Bob? 
+> “Bob: Baby steps? 
+   Dr. Marvin: It means setting small, reasonable, goals, one step at a time. One tiny, little, step at a time.
+   For instance, when you leave this office, don’t think about everything you must do I. Order to get of the building,
+   think of what you must do I. Order to get out of this room. And, when you get    the hall, deal with that hall, and
+   so forth. You see?” - What About Bob? 
 
 ###   Break the problem down into smaller iterations, so the scale of the problem isn’t too daunting.
 ### ⁃	Failure and criticism are not to be avoided like the plague (the pandemic?), but embraced as learning and GROWTH opportunities.
