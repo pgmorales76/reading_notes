@@ -25,7 +25,7 @@ This repository is for Code 102 reading notes.
 
 ###   Break the problem down into smaller iterations, so the scale of the problem isn’t too daunting.
 ### ⁃	Failure and criticism are not to be avoided like the plague (the pandemic?), but embraced as learning and GROWTH opportunities.
-### ⁃	Surround yourself with people whose skills are superior to yours as inspirations and objectives to be achieved.
+### ⁃	Surround yourself with people whose skills are superior to yours which will be viewed as inspirational and objectives to be achieved.
 
 #### Here's my [GitHub Portfolio](https://github.com/pgmorales76) and [LinkedIn Profile](https://linkedin.com/in/peter-morales-4206a7190).
 ----------------------------------------------
