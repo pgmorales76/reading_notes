@@ -4,7 +4,35 @@ This repository is for Code 102 reading notes.
 ----------------------------------------------
 #### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
 
-# Lab 01b
+# Creating a webpage using Markdown!
+
+## For out first day of class, we're going to be using a markup language called "Markdown"!
+
+### Markdown is a markup language, but it's different than HTML.
+
+#### - Markdown is different than a What You See Is What You Get (WYSIWYG) editor such as Microsoft Word or Google Docs.
+
+#### - For the purposes of introducing us to simple webpage creation, we're starting with Markdown, rather than HTML.
+
+#### - When I started looking at the syntax used, it reminded of the syntax used for creating, editing a wikipedia page.
+
+### Markdown Syntax
+
+#### - In the same way there are six section heading levels in HTML, there are six section heading leves in Markdown.
+       - Using the "#" symbol, you can create a heading. The highest heading level uses one "#" symbol. The lowest uses six "#" symbols.
+
+#### = To create a blockquote, place a greater than symbol (>) in front of a paragraph.
+
+#### - You can create ordered and unordered lists in Markdown, just like HTML.
+       = For ordered lists, place a number in front of the list item. For unordered lists, add dashes in front of list items.
+
+#### - To create a link, the text you'd like the link to display goes inside brackets "[]". The URL goes inside parentheses "()".
+       - [alt link text](URL)
+
+#### - To add an image, type an exclamation point, followed by alt text in brackets, and the path/URL to the image in parentheses.
+       - ![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg)
+
+#### - The basic syntax guide can be found at [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
 
 ![image](https://user-images.githubusercontent.com/81570648/192704138-052cdff8-06df-401a-b7c5-108b36317802.png)
 
