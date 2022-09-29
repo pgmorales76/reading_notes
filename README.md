@@ -28,6 +28,7 @@ This repository is for Code 102 reading notes.
 > Bob: Baby Steps!
 > 
 > Dr. Marvin: Baby Steps.
+> 
 > [What About Bob?](https://www.youtube.com/watch?v=Yl6s6DGapug)
 
 ### - Break the problem down into smaller iterations, so the scale of the problem isn’t too daunting.
