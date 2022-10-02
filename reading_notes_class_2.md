@@ -6,7 +6,7 @@
 
 #### - 
 
-### Why it's important for software developers to be thoughtful about their selection of what the use to write code in.
+### Why it's important for software developers to be thoughtful about their selection of what the use to write code.
 
 #### - 
 
