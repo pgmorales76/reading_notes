@@ -18,12 +18,12 @@
 
 #### - Get an idea of what your development needs are as soon as you can, so you can figure out the tools you'll need to get the job done correctly!
 
-#### (Reading for the above notes)[https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf]
+#### [Reading for the above notes](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
 ### Basic Terminal Usage "Cheat Sheet"
 
 #### - 
 
-#### (Master the Command Line)[https://ryanstutorials.net/linuxtutorial/commandline.php]
-#### (Master File System Navigation)[(https://ryanstutorials.net/linuxtutorial/navigation.php]
-#### (Discover More About Files)[https://ryanstutorials.net/linuxtutorial/aboutfiles.php]
+#### [Master the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+#### [Master File System Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+#### [Discover More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
