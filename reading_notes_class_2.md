@@ -22,7 +22,7 @@
 
 ### Basic Terminal Usage "Cheat Sheet"
 
-#### - pwd = present working directory
+#### - pwd = print working directory
 #### - cd = change directory
 #### - mkdir = make directory
 #### - code . = open VS Code
@@ -33,6 +33,8 @@
 #### - There's a difference between the relative path . . . and the absolute path (Thanks, Morpheus!)
 
 ![The Path](https://miro.medium.com/max/1000/1*qlKg7aWFvM7KVrs_eGVpCg.gif)
+
+
 
 #### [Master the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
 #### [Master File System Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
