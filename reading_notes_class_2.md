@@ -16,7 +16,7 @@
 
 #### - While an IDE may be beyond your development needs in the beginning, I think it's a good idea to use it as soon as you can in your development journey.
 
-#### - Get an idea of what your development needs are as soon as you can, so you can figure out the tools you'll need to get the job done correctly!
+#### - Get an idea of what your development needs are as soon as you can, so you can figure out the tools you'll need to get the job done, correctly!
 
 #### [Reading for the above notes](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
 
