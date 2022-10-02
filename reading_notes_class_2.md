@@ -23,20 +23,37 @@
 ### Basic Terminal Usage "Cheat Sheet"
 
 #### - pwd = print working directory
+
 #### - cd = change directory
+
 #### - mkdir = make directory
+
 #### - code . = open VS Code
+
 #### - ls = list
-#### - .. = parent directory
-#### - A relative path is a file or directory location relative to where we currently are in the file system.
-#### - An absolute path is a file or directory location in relation to the root of the file system.
+
+#### - ~ = shortcut for your home directory
+
+#### - . = reference to your current directory
+
+#### - .. = reference to your parent directory
+
+#### - A "relative path" is a file or directory location relative to where we currently are in the file system.
+
+#### - An "absolute path" is a file or directory location in relation to the root of the file system.
+
 #### - There's a difference between the relative path . . . and the absolute path (Thanks, Morpheus!)
 
 ![The Path](https://miro.medium.com/max/1000/1*qlKg7aWFvM7KVrs_eGVpCg.gif)
 
+#### - file = what type of file a file or directory is
 
+#### - ls -a = List the contents of a directory, including hidden files
 
 #### [Master the Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+
 #### [Master File System Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+
 #### [Discover More About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
+
 #### [Introduction to the Bash Command Line](https://programminghistorian.org/en/lessons/intro-to-bash#introduction-to-the-bash-command-line)
