@@ -8,6 +8,8 @@
 
 ## [Class 3 - Git/Github](reading_notes_class_3.md)
 
+## [Class 3 - Practice with Git](reading_notes_class_3_practice_with_git.md)
+
 ## [Class 4 - HTML](reading_notes_class_4.md)
 
 ## [Class 5 - CSS](reading_notes_class_5.md)
