@@ -1,7 +1,3 @@
-# reading_notes
-This repository is for Code 102 reading notes.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Class 2 Reading Notes
 
 ## Read: 02 - The Coder's Computer
