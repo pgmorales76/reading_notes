@@ -1,6 +1,8 @@
-# Creating a webpage using Markdown!
+# reading_notes
+This repository is for Code 102 reading notes.
 
-## For our first day of class, we're going to be using a markup language called "Markdown"!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+## For our first day of class, we're going to be creating a webpage using a markup language called "Markdown"!
 
 ### Markdown is a markup language, but it's different than HTML.
 
