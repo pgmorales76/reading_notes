@@ -1,8 +1,4 @@
-# reading_notes
-This repository is for Code 102 reading notes.
-
------------------------------------------------------------------------------------------------------------------------------------------------------------
-#### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
+### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
 
 # Table of Contents
 
