@@ -38,6 +38,8 @@
 
 #### - .. = reference to your parent directory
 
+#### - touch = creating new files
+
 #### - A "relative path" is a file or directory location relative to where we currently are in the file system.
 
 #### - An "absolute path" is a file or directory location in relation to the root of the file system.
