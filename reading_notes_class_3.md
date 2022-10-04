@@ -44,3 +44,7 @@
 
 #### - *Staged:* Flagged a file’s changed version to be committed in the next snapshot
 
+![Git states](/images/git_wit_it.png)
+
+## History of Git
+
