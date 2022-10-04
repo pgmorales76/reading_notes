@@ -1,3 +1,4 @@
+[Home](https://pgmorales76.github.io/reading_notes/)
 # Class 3 Reading Notes
 
 ## Version Control

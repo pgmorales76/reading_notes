@@ -1,3 +1,4 @@
+[Home](https://pgmorales76.github.io/reading_notes/)
 # Class 2 Reading Notes
 
 ## Read: 02 - The Coder's Computer
