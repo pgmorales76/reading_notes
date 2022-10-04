@@ -38,11 +38,11 @@
 
 #### - Files in Git can reside in three main states: committed, modified and staged
 
-#### - *Committed:* Data is securely stored in a local database
+#### - *Committed*: Data is securely stored in a local database
 
-#### - *Modified:* File has been changed but not committed to the database
+#### - *Modified*: File has been changed but not committed to the database
 
-#### - *Staged:* Flagged a file’s changed version to be committed in the next snapshot
+#### - *Staged*: Flagged a file’s changed version to be committed in the next snapshot
 
 ![Git states](/images/git_wit_it.png)
 
