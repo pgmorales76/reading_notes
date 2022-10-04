@@ -74,6 +74,8 @@
 
 #### - *Tracked*: Can be modified, unmodified, or staged; they were part of the most recent file snapshot
 
+#### - *Untracked*: Not in the last snapshot and does not currently reside in the staging area
+
 ### The Life Cycle of File Status
 
 1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
