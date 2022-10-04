@@ -18,6 +18,8 @@
 
 #### - Switching later to software allows you to keep track of more detailed decisions
 
+#### Wireframes from CareerFoundry student Samuel Adaramola:
+
 ![Wireframe Examples](/images/wireframe_examples.png)
 
 [How To Create Wireframes For A Website](https://careerfoundry.com/en/blog/ux-design/how-to-create-your-first-wireframe/)
