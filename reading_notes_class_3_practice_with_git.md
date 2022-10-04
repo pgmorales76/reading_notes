@@ -6,7 +6,7 @@
 
 ### After watching the lecture for Class 3, I began to encounter problems with the Terminal app for macOS. It appeared that Git wasn't tracking my repo directory as it should. I think what the problem ended up being was I didn't setup my computer properly the day before in the computer lab (Coder's computer). I followed the instructions, explicitly, so I'm operating on the assumption that it was the fault of Code Fellows (JUST KIDDING!!!)
 
-### Professor Kassie helped me with the issues and everything turned out fine. I mean, the experienced ruined my Sunday, and I was left helpless, but I'm not looking for sympathy. So, don't give me any (but if you'd like to my phone number is 201-KL5 . . . )
+### Professor Kassie helped me with the issues and everything turned out fine. I mean, the experienced ruined my Sunday, and I was left helpless, but I'm not looking for sympathy. So, don't give me any (but, if you'd like to, my phone number is 201-KL5 . . . )
 
 ### I proofreed the entries as I follow the course, so if I did edit the pages, it was little things, such as adding a link to the homepage for every individual page, editing the pages so they would all have the same structure and similar look, etc
 
@@ -34,4 +34,4 @@
 
 ### The other aspect of the learning exercise was memorizing the steps for A-C-P (adding, committing, and pushing). While these steps aren't very difficult, sometimes the sheer volume of the learning material can be overwhelming. Because of this, you can miss a step, do the steps out of order, or make some other kind of mistake that interrupts the entire workflow. Activities like these, create those good habits that'll serve you in the long term
 
-### Thanks, Prof. Kassie
+### Thanks, Prof. Kassie!
