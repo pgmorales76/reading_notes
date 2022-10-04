@@ -54,3 +54,5 @@
 ### - Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design.
 
 ### - Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
+
+[Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
