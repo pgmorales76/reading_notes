@@ -37,12 +37,20 @@
 ### States
 
 #### - Files in Git can reside in three main states: committed, modified and staged
-    #### - *Committed*: Data is securely stored in a local database
-    #### - *Modified*: File has been changed but not committed to the database
-    #### - *Staged*: Flagged a file’s changed version to be committed in the next snapshot
+
+#### - *Committed*: Data is securely stored in a local database
+
+#### - *Modified*: File has been changed but not committed to the database
+#### - *Staged*: Flagged a file’s changed version to be committed in the next snapshot
 
 ![Git states](/images/git_wit_it.png)
 
 ## History of Git
 
-### - 
+### - Git traces its roots to the open source software project Linux kernel
+
+### - In 2005, Linus Torvalds, the chief architect of the Linux kernel, began creating Git
+
+### - Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design.
+
+### - Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
