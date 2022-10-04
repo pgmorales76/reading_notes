@@ -41,6 +41,7 @@
 #### - *Committed*: Data is securely stored in a local database
 
 #### - *Modified*: File has been changed but not committed to the database
+
 #### - *Staged*: Flagged a file’s changed version to be committed in the next snapshot
 
 ![Git states](/images/git_wit_it.png)
@@ -51,8 +52,34 @@
 
 ### - In 2005, Linus Torvalds, the chief architect of the Linux kernel, began creating Git
 
-### - Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design.
+### - Git allowed for non-linear development via multiple branches, could support large projects, possessed strong mechanisms preventing corruption, and had a simple design
 
-### - Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world.
+### - Since its inception in 2005, Git has become one of the most utilized Version Control Systems in the world
+
+## Workflow
+
+### Local Repository Structure
+
+#### - The local Git repository has three components
+
+1. Working Directory: The actual files reside here.
+2. Index: The area used for staging.
+3. Head: Points to the most recent commit.
+
+![Git workflow](/images/git_wit_it_2.png)
+
+### Saving Changes
+
+#### - All files in a checked out (or working) copy of a project file are either in a tracked or untracked state
+
+#### - *Tracked*: Can be modified, unmodified, or staged; they were part of the most recent file snapshot
+
+### The Life Cycle of File Status
+
+1. After you edit a file, Git flags it as modified because of changes made after the previous commit.
+2. You stage the modified file.
+3. Then, you commit staged changes.
+
+![File Status Life Cycle](/images/git_wit_it_3.png)
 
 [Git Tutorial](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
