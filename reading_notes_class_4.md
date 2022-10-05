@@ -86,6 +86,56 @@
 
 `<img src="images/firefox-icon.png" alt="My test image" />`
 
+## Marking up text
+
+### Headings
+
+#### Heading elements allow you to specify that certain parts of your content are headings — or subheadings. HTML contains 6 heading levels, <h1> - <h6>, although you'll commonly only use 3 to 4 at most
+
+    <!-- 4 heading levels: -->
+    <h1>My main title</h1>
+    <h2>My top level heading</h2>
+    <h3>My subheading</h3>
+    <h4>My sub-subheading</h4>
+
+### Paragraphs
+
+#### `<p>` elements are for containing paragraphs of text; you'll use these frequently when marking up regular text content
+
+`<p>This is a single paragraph</p>`
+
+### Lists
+
+#### A lot of the web's content is lists and HTML has special elements for these. Marking up lists always consists of at least 2 elements. The most common list types are ordered (order of the items does matter, such as a recipe) and unordered (order of the items doesn't matter) lists
+
+#### Here is an example of an unordered list
+
+    <p>At Mozilla, we're a global community of</p>
+        <ul>
+            <li>technologists</li>
+            <li>thinkers</li>
+            <li>builders</li>
+        </ul>
+    <p>working together…</p>
+
+## Links
+
+#### Links are very important — they are what makes the web a web! To add a link, we need to use a simple element — `<a>` — "a" being the short form for "anchor". To make text within your paragraph into a link, follow these steps
+
+#### 1. Choose some text
+
+#### 2. Wrap the text in an `<a>` element, as shown below:
+
+`<a>Mozilla Manifesto</a>`
+
+#### 3. Give the `<a>` element an href attribute, as shown below
+
+`<a href="">Mozilla Manifesto</a>`
+
+#### 4. Fill in the value of this attribute with the web address that you want the link to
+
+`<a href="https://www.mozilla.org/en-US/about/manifesto/">Mozilla Manifesto</a>`
+
 [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
 ## Semantics
