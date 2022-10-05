@@ -54,7 +54,7 @@
 
 ### So, what is HTML?
 
-#### - HTML (HyperText Markup Language) is a *markup language* that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+#### - HTML (HyperText Markup Language) is a *markup language* that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way
 
 ### Anatomy of an HTML element
 
@@ -62,11 +62,30 @@
 
 ![Paragraph element](/images/anatomy_of_an_element.png)
 
-#### Elements can also have attributes that look like the following:
+#### Elements can also have attributes that look like the following
 
 ![Paragraph element with attribute](/images/html_attribute_anatomy.png)
 
+### Anatomy of an HTML document
 
+`<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>My test page</title>
+  </head>
+  <body>
+    <img src="images/firefox-icon.png" alt="My test image" />
+  </body>
+</html>
+`
+
+### Images
+
+#### The image element embeds an image into our page in the position it appears. It does this via the src (source) attribute, which contains the path to our image file. Also included is an alt (alternative) attribute. In the alt attribute, you specify descriptive text for users who cannot see the image
+
+`<img src="images/firefox-icon.png" alt="My test image" />`
 
 [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
