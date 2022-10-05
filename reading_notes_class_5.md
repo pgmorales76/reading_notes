@@ -162,9 +162,29 @@
 
 #### So, an inline style has the highest priority, and will override external and internal styles and browser defaults
 
-
-
 [How to add CSS](https://www.w3schools.com/css/css_howto.asp)
+
+## CSS Color Property
+
+### Definition and Usage
+
+#### The color property specifies the color of text
+
+#### Tip: Use a background color combined with a text color that makes the text easy to read
+
+### Text-color property for different elements
+
+    body {
+        color: red;
+        }
+
+    h1 {
+        color: #00ff00;
+        }
+
+    p.ex {
+        color: rgb(0,0,255);
+        }
 
 [CSS Color](https://www.w3schools.com/cssref/pr_text_color.asp)
 
