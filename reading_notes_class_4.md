@@ -52,7 +52,21 @@
 
 ## Mozilla HTML Basics
 
-### - 
+### So, what is HTML?
+
+#### - HTML (HyperText Markup Language) is a *markup language* that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way.
+
+### Anatomy of an HTML element
+
+#### Below is the anatomy of a paragraph element
+
+![Paragraph element](/images/anatomy_of_an_element.png)
+
+#### Elements can also have attributes that look like the following:
+
+![Paragraph element with attribute](/images/html_attribute_anatomy.png)
+
+
 
 [Mozilla HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 
