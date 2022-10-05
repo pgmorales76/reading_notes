@@ -124,7 +124,7 @@
 
 #### 1. Choose some text
 
-#### 2. Wrap the text in an `<a>` element, as shown below:
+#### 2. Wrap the text in an `<a>` element, as shown below
 
 `<a>Mozilla Manifesto</a>`
 
@@ -140,7 +140,27 @@
 
 ## Semantics
 
-### -
+#### In programming, Semantics refers to the *meaning* of a piece of code — for example "what purpose or role does that HTML element have" (rather than "what does it look like?")
+
+### Semantics in HTML
+
+#### In HTML, for example, the `<h1>` element is a semantic element, which gives the text it wraps around the role (or meaning) of "a top level heading on your page."
+
+#### HTML should be coded to represent the *data* that will be populated and not based on its default presentation styling
+
+#### Some of the benefits from writing semantic markup are as follows
+
+#### - Search engines will consider its contents as important keywords to influence the page's search rankings (see SEO)
+
+#### - Screen readers can use it as a signpost to help visually impaired users navigate a page
+
+#### - Finding blocks of meaningful code is significantly easier than searching through endless divs with or without semantic or namespaced classes
+
+#### - Suggests to the developer the type of data that will be populated
+
+#### - Semantic naming mirrors proper custom element/component naming
+
+#### When approaching which markup to use, ask yourself, "What element(s) best describe/represent the data that I'm going to populate?"
 
 [Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)
 
