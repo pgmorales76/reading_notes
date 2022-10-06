@@ -56,10 +56,115 @@
 
 [JS Intro Paragraph](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
-
-
 [Introduction to JavaScript - basic output](https://code-maven.com/introduction-to-javascript)
 
+## JS input with prompt and confirm
+
+### prompt
+
+#### - The fist one is called `prompt`. It will show a pop-up window with the text provided as the first parameter and with a textbox the user can fill in. When the user presses `OK`, the value in the text box will be returned by the `prompt()` function. Then, in this example we use the `document.write` method to update the html with the text
+
+    <script>
+ 
+    var name = prompt("Your name:", "");
+    document.write("Hello ", name);
+ 
+    </script>
+
+#### - The textbox will be pre-filled with the content of the second parameter. This can be very useful if we would like to ask the user to edit some value. We can pre-fill the box with the old value
+
+    <script>
+ 
+    var name = prompt("Please correct your e-mail address:", "foo@bar.co");
+    document.write("Your e-mail address is ", name);
+ 
+    </script>
+
+#### - In either case, if the user presses `cancel` or hits the `ESC` the `prompt()` function will return `null`
+
+### confirm
+
+#### - The other pop-up is not really an input method. It allows the developer to ask a Yes/No question. Calling the `confirm()` function will show a pop-up window with the provided texts and with two buttons. If the user presses `OK` the `confirm()` function will return `true`, if the user presses `cancel` or hits the `ESC` key, the function will return `false`
+
+#### - That code can basically be translated to the following English sentence
+
+`If the user presses OK when we asked "Shall I print Hello World?", then print "Hello World", otherwise print "OK, I won't print it."`
+
 [JavaScript input with prompt and confirm](https://code-maven.com/javascript-input-with-prompt-and-confirm)
+
+    <script>
+ 
+    if (confirm("Shall I print Hello World?")) {
+        document.write("Hello World");
+        } else {
+            document.write("OK, I won't print it.");
+        }
+ 
+    </script>
+
+## Javascript Variables
+
+### We are going to use two ways to declare a JS variable: `let` and `const`
+
+### What are variables?
+
+#### - Variables are containers for storing data (storing data values)
+
+#### - In this example, x and y are variables, declared with the `let` or `const` keyword
+
+    let x = 5
+    const y = 5
+
+### When to use `let` keyword?
+
+#### - If you think the value of the variable can change, use `let`
+
+### When to use `const` keyword?
+
+#### - If you think the value of the variable won't change (actually, it can't be changed!), use `const`
+
+### JS Identifiers
+
+#### - All JavaScript variables must be identified with unique names
+
+#### - These unique names are called identifiers
+
+#### - Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume)
+
+#### The general rules for constructing names for variables (unique identifiers) are
+
+#### - Names can contain letters, digits, underscores, and dollar signs
+
+#### - Names must begin with a letter
+
+#### - Names can also begin with $ and _ (but we will not use it in this tutorial)
+
+#### - Names are case sensitive (y and Y are different variables)
+
+#### - Reserved words (like JavaScript keywords) cannot be used as names
+
+### The Assignment Operator
+
+#### In JavaScript, the equal sign (=) is an "assignment" operator, not an "equal to" operator
+
+#### This is different from algebra. The following does not make sense in algebra
+
+    x = x + 5
+
+#### In JavaScript, however, it makes perfect sense: it assigns the value of x + 5 to x
+
+#### (It calculates the value of x + 5 and puts the result into x. The value of x is incremented by 5.)
+
+### JS Data Types
+
+#### - JavaScript variables can hold numbers like 100 and text values like "John Doe"
+
+#### - In programming, text values are called text strings
+
+#### - JavaScript can handle many types of data, but for now, just think of numbers and strings
+
+#### - Strings are written inside double or single quotes. Numbers are written without quotes
+
+#### - If you put a number in quotes, it will be treated as a text string
 
 [Variables](https://www.w3schools.com/js/js_variables.asp)
