@@ -16,6 +16,8 @@
 
 ## [Class 6 - Javascript](reading_notes_class_6.md)
 
+## [Class 6 - How Computers Work](/reading_notes_class_6_how_computers_work.md)
+
 ## [Class 7 - Functions](reading_notes_class_7.md)
 
 ## [Class 8 - Loops & Logic](reading_notes_class_8.md)
