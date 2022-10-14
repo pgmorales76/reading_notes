@@ -1,6 +1,6 @@
 ### Hey, everyone! My name is Peter (it/its). I’m very excited to begin my coding journey at Code Fellows!
 
-# Table of Contents
+# Table of Contents for Code 102
 
 ## [Class 1 - Growth Mindset](reading_notes_class_1.md)
 
